@@ -21,6 +21,23 @@ public class BirdController : MonoBehaviour
             Velocity.x = 1;
         }
 
+        //If the left arrow key is pressed we set the x component of the velocity x to -1 => move the bird to the left
+        else if(Keyboard.current.leftArrowKey.isPressed == true)
+        {
+            Velocity.x = -1;
+        }    
+        
+        //If the up arrow key is pressed we set the y component of the velocity y to 1 => move the bird up
+        if(Keyboard.current.upArrowKey.isPressed == true)
+        {
+            Velocity.y = 1;
+        }
+
+        //If the down arrow key is pressed we set the y component of the velocity y to -1 => move the bird down
+        else if(Keyboard.current.downArrowKey.isPressed == true)
+        {
+            Velocity.y = -1;
+        }   
         
         //The translte function upates the position Vector of the bird according to the Velocity vector. 
         //Technically the position vector of the bird is added by the Velocity Vector
