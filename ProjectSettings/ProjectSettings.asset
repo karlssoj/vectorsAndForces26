@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: d3413a094aef4cd4db8246f706f8c638
+  productGUID: 141f888addcd4ba4dbc4cf4f83a48539
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Exercise1_solution
+  productName: Exercise2_solution
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -600,14 +600,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Exercise1_solution
+  metroPackageName: Exercise2_solution
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Exercise1_solution
+  metroApplicationDescription: Exercise2_solution
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -678,10 +678,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8eea3e65-d26a-4f23-bca4-63dcde417b25
+  cloudProjectId: 9d851a19-45b8-4ac1-b11a-3b389bf037e6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Exercise1_solution
+  projectName: Exercise2_solution
   organizationId: karlssoj
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
